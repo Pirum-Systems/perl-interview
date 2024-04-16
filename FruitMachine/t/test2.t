@@ -36,7 +36,7 @@ value. Pairs can overlap, so red, red, red, blue, green is 2 pairs
         } 1..5)." \n",
         'print method results in 5 ANSI red blocks',
     );
-    is($machine->result, 50, 'result for 5 reds is 50.');
+    is($machine->result, 75, 'result for 5 reds is 75.');
 }
 
 {
@@ -110,22 +110,22 @@ my $tests = [
     },
     {
         reels => [qw/1 1 1 1 2/],
-        result => 25,
+        result => 35,
         desc => 'four of a kind at the start wins 35 (5 + 10 + 20)',
     },
     {
         reels => [qw/1 2 2 2 2/],
-        result => 25,
+        result => 35,
         desc => 'four of a kind at the end wins 35 (5 + 10 + 20)',
     },
     {
         reels => [qw/1 1 2 2 2/],
-        result => 25,
+        result => 35,
         desc => 'full house (2, then 3) wins 35 (5 + 10 + 20)',
     },
     {
         reels => [qw/1 1 1 2 2/],
-        result => 25,
+        result => 35,
         desc => 'full house (3, then 2) wins 35 (5 + 10 + 20)',
     },
     {
