@@ -10,7 +10,7 @@ The interview is scheduled for 90 minutes. It is formed of the following parts:
   - If there's anything you're unsure of or unfamiliar with, we're happy to 
     explain.
 - Pair programming (45 minutes)
-  - There are some improvements that are required in the code in this proeject.
+  - There are some improvements that are required in the code in this project.
     Given the requirements which will be shared at the time, you will take the
     lead and work with the interviewer to implement these requirements.
 - Final questions (15 minutes)
