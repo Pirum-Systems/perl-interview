@@ -11,8 +11,9 @@ The interview is scheduled for 90 minutes. It is formed of the following parts:
     explain.
 - Pair programming (45 minutes)
   - There are some improvements that are required in the code in this project.
-    Given the requirements which will be shared at the time, you will take the
-    lead and work with the interviewer to implement these requirements.
+    Given the requirements which will be shared at the time of the interview,
+    you will take the lead and work with the interviewer to implement these
+    requirements.
 - Final questions (15 minutes)
   - An opportunity for us to better understand each other
 
@@ -20,6 +21,7 @@ The interview is scheduled for 90 minutes. It is formed of the following parts:
 Please get this running on your local machine. You will require the dependencies
 as defined in the `cpanfile` file. If all goes well, you should be able to run the
 script as follows:
+
 `~/git/perl-interview/FruitMachine> perl -I. fruit_machine.pl`
 
 Also, the first test should pass:
