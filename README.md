@@ -38,9 +38,9 @@ files in your preferred IDE, sharing your screen via Microsoft Teams.
 
 ## About this exercise
 We don't do 'gotcha' questions here - the code was written in line with our
-internal coding standards, but has not been reviewed. It does not contain any
-errors. The intention behind the exercise is to expose you to the type of code
-you'll be expected to create or maintain, ensuring you know what to expect from
-us, and what's expected of you. It will also allow us to get to know you as a
-developer - to see what excites or frustrates you, allowing us to determine how
-easy it'll be for you to succeed here.
+internal coding standards, but has not been reviewed. No errors/mistakes were
+added on purpose. The intention behind the exercise is to expose you to the type
+of code you'll be expected to create or maintain, ensuring you know what to
+expect from us, and what's expected of you. It will also allow us to get to know
+you as a developer - to see what excites or frustrates you, allowing us to
+determine how easy it'll be for you to succeed here.
